@@ -1,12 +1,12 @@
-# Hey, I'm Uday
+# Uday Raj Sharma
 
-I build websites and web apps, mostly with React, Node and MongoDB. I started out with plain HTML and CSS (my first repo was a gym website, and it's still pinned below). These days I'm working on a CRM in TypeScript.
+Web developer working mainly with React, Node.js, Express and MongoDB. I started with HTML and CSS and have since moved on to full-stack projects. My current project is a CRM built in TypeScript.
 
-Right now I'm learning TypeScript properly and getting better at the backend side of things: APIs, auth, databases.
+I'm currently focused on improving my TypeScript and backend skills, including REST APIs, authentication and database design.
 
-If you have an internship or a small freelance project, I'd like to hear about it.
+I'm open to internships and freelance work.
 
-### Stuff I use
+## Tech stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -18,13 +18,14 @@ If you have an internship or a small freelance project, I'd like to hear about i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Some things I've made
+## Selected projects
 
-- [CRM](https://github.com/UDAYRAJ08/CRM): a CRM I'm building in TypeScript
-- [X](https://github.com/UDAYRAJ08/X): a clone of the X (Twitter) layout. You can [see it live here](https://udayraj08.github.io/X/)
-- [Portfolio](https://github.com/UDAYRAJ08/Portfolio): my portfolio site
-- [GYM-website](https://github.com/UDAYRAJ08/GYM-website): my very first repo, a gym landing page
+- [CRM](https://github.com/UDAYRAJ08/CRM): customer relationship management app, in progress (TypeScript)
+- [X](https://github.com/UDAYRAJ08/X): front-end clone of the X (Twitter) interface. [Live demo](https://udayraj08.github.io/X/)
+- [Portfolio](https://github.com/UDAYRAJ08/Portfolio): personal portfolio website
+- [GYM-website](https://github.com/UDAYRAJ08/GYM-website): landing page for a gym (HTML, CSS)
 
-### Get in touch
+## Contact
 
-Email me at udayrajsharma08@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/uday-raj-sharma-4ba007308).
+- Email: udayrajsharma08@gmail.com
+- LinkedIn: [uday-raj-sharma](https://www.linkedin.com/in/uday-raj-sharma-4ba007308)
