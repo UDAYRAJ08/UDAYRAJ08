@@ -48,13 +48,6 @@ I'm a web developer focused on building responsive, user-friendly applications w
 | [BOOKING-APP](https://github.com/UDAYRAJ08/BOOKING-APP) | Booking application | — |
 | [GYM-website](https://github.com/UDAYRAJ08/GYM-website) | Responsive fitness business website | HTML, CSS |
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UDAYRAJ08&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UDAYRAJ08&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
 ## Let's Connect
 
 I'm always happy to talk about web development, projects or opportunities. Reach me at **udayrajsharma08@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/uday-raj-sharma-4ba007308).
